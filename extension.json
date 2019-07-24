@@ -1,6 +1,6 @@
 {
-  "id": "default-field-value",
-  "name": "Default value for a field",
+  "id": "default-field",
+  "name": "Default value for a field NEW",
   "srcdoc": "extension.html",
   "fieldTypes": ["Symbol"],
   "parameters": {
@@ -8,10 +8,10 @@
       {
         "id": "defaultColor",
         "name": "Default color",
-        "description": "Set which color is the default color",
+        "description": "Set which color is the default color XXX",
         "type": "Text",
         "options": [{"#0000FF": "Create Master"}, {"#0000FF": "blue"}, {"#FFFF00": "yellow"}, {"#FF0000": "red"}],
-        "labels": {"empty": "Choose a color"},
+        "labels": {"empty": "Choose a color XXX"},
         "required": true
       }
     ]
