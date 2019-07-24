@@ -1,5 +1,5 @@
 {
-  "id": "default-field",
+  "id": "default-field-value",
   "name": "Default value for a field",
   "srcdoc": "extension.html",
   "fieldTypes": ["Symbol"],
